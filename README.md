@@ -31,7 +31,7 @@
   <img src="https://github.com/James12315135/DJVP/blob/main/week25-26.jpg?raw=true" width="1000">
   <hr>
 
-  <img src="https://github.com/James12315135/DJVP.github.io/blob/main/week27-28.jpg?raw=true" width="1000">
+  <img src="https://github.com/James12315135/DJVP/blob/main/week27-28.jpg?raw=true" width="1000">
   <hr>
 
   <img src="https://github.com/James12315135/DJVP.github.io/blob/main/week29-30.jpg?raw=true" width="1000">
