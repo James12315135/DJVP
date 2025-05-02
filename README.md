@@ -10,7 +10,7 @@
   <img src="https://github.com/James12315135/DJVP/blob/main/WEEK1.jpg?raw=true" width="1000">
   <hr>
 
-  <img src="https://github.com/James12315135/DJVP.github.io/blob/main/WEEK2-3.jpg?raw=true" width="1000">
+  <img src="https://github.com/James12315135/DJVP/blob/main/WEEK2-3.jpg?raw=true" width="1000">
   <hr>
 
   <img src="https://github.com/James12315135/DJVP.github.io/blob/main/week4-6.jpg?raw=true" width="1000">
