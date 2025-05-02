@@ -19,7 +19,7 @@
   <img src="https://github.com/James12315135/DJVP/blob/main/week7-9.jpg?raw=true" width="1000">
   <hr>
 
-  <img src="https://github.com/James12315135/DJVP.github.io/blob/main/week10-18.jpg?raw=true" width="1000">
+  <img src="https://github.com/James12315135/DJVP/blob/main/week10-18.jpg?raw=true" width="1000">
   <hr>
 
   <img src="https://github.com/James12315135/DJVP.github.io/blob/main/week19-22.jpg?raw=true" width="1000">
