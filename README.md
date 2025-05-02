@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/James12315135/DJVP.github.io/blob/main/THESIS%20LOGO.jpg?raw=true" width="300">
+  <img src="https://github.com/James12315135/DJVP/blob/main/THESIS%20LOGO.jpg?raw=true" width="300">
 </p>
 
 <p align="center">DJVP WEEKLY JOURNALS</p>
